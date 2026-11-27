@@ -1,5 +1,6 @@
 # IVH_Graphical_Counter_2024
 Hardware used: PYNQ Z-2 with custom matrix display
+
 Software used: Vivado, AMD
 
 ## Result
