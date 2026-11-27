@@ -13,4 +13,4 @@ License v3.0 or later.
 
 See the [LICENSE](LICENSE) file for details.
 
-Copyright (C) 2026 Your Name
+Copyright (C) 2026 Jaroslav Mervart
