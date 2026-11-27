@@ -1,7 +1,15 @@
+---------------------------------------------------------------
+-- Project: IVH_Graphical_Counter_2024
+-- Copyright (C) 2024 Jaroslav Mervart
+--
+-- This file is licensed under the GNU General Public License
+-- version 3 or later. See the LICENSE file for details.
+---------------------------------------------------------------
 -- xmervaj00
 -- main entity
---- currently requires BCD_counter, cell, FSM, ROM, counter(clk)
-----------------------------------------------------------------------------------
+--- requires BCD_counter, cell, FSM, ROM, counter(clk)
+---------------------------------------------------------------
+
 ---- LIBRARIES ----
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;

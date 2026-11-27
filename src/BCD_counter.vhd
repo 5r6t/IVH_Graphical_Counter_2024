@@ -1,7 +1,11 @@
 ----------------------------------------------------------------------------------
--- xmervaj00
--- BCD citac
+-- Project: IVH_Graphical_Counter_2024
+-- Copyright (C) 2024 Jaroslav Mervart
+--
+-- This file is licensed under the GNU General Public License
+-- version 3 or later. See the LICENSE file for details.
 ----------------------------------------------------------------------------------
+-- BCD Counter
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
